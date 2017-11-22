@@ -17,6 +17,9 @@ We are still in the design phase of this project.  Details are to come.
 * HTML
 * CSS
 * Javascript ES2015/ES6
+* Wordpress
+* MySQL/MariaDB
+* PHP
 
 ## Licence 
 
